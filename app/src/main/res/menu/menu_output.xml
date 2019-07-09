@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/edit"
+        android:title="@string/edit_text"
+        android:icon="@drawable/edit"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/send"
+        android:title="@string/send_text"
+        android:icon="@drawable/send"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/cancel"
+        android:title="@string/cancel_send"
+        android:icon="@drawable/cancel"
+        app:showAsAction="ifRoom"/>
+</menu>

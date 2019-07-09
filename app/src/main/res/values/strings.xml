@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vision</string>
+    <string name="edit_text">Edit Text</string>
+    <string name="send_text">Send Text</string>
+    <string name="change_ip">Change IP</string>
+    <string name="cancel_send">Cancel Send</string>
+    <string name="change_text">Change Text</string>
+    <string name="save">Save</string>
+</resources>
